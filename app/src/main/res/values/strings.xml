@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="saved">Saved</string>
+    <string name="profile">Profile</string>
+    <string name="science_fiction">Science Fiction</string>
+    <string name="search">Search</string>
+    <string name="residen_evil_the_final_chapter">Residen Evil The Final Chapter</string>
+    <string name="december_14_2022">December 14, 2022</string>
+    <string name="recommended">Recommended</string>
+    <string name="view_all">View all</string>
+    <string name="the_avengers">The Avengers</string>
+</resources>
